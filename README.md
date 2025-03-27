@@ -4,13 +4,9 @@
   ✨ Front-End Developer | 🎨 UI/UX Enthusiast 
 </p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300"/>
-</div>
-
 ---
 
-## Technologies I Love:
+## Technologies:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
