@@ -16,6 +16,7 @@
 ### ✨ **About Me**
 - _I build smooth and intuitive web experiences._
 - _Passionate about clean design and seamless interactions._
+- _Currently exploring TypeScript and building modern apps with Next.js._
 - _Always learning, always improving._
 
 ---
@@ -35,4 +36,4 @@
 
 ---
 
-<h3 align="center"><em>"Less is more." ✨</em></h3>
+<h3 align="center"><em>"Less, but better." ✨</em></h3>
