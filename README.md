@@ -8,7 +8,7 @@
 
 ### 🚀 **Technologies I use:**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,nodejs" alt="Tech Stack" width="350"/>
+  <img src="https://skillicons.dev/icons?i=next,ts,react,js,tailwind,html,css,git,nodejs" alt="Tech Stack" width="350"/>
 </p>
 
 ---
