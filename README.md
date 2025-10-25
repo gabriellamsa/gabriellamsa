@@ -23,7 +23,7 @@
 
 ### 📫 **Let's Connect!**
 <p align="center">
-  <a href="https://gabriella-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.gabrielladev.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-f4a5c3?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/gabriellamsa/" target="_blank" rel="noopener noreferrer">
