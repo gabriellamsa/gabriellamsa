@@ -14,12 +14,12 @@
 ---
 
 ### ✨ **About Me**
-I work mainly with **React and TypeScript** and modern front-end tools — always aiming for clear structure, good UX and maintainable code.
+I work mainly with **React and TypeScript** and modern front-end tools, always aiming for clear structure, good UX and maintainable code.
 
 - Focused on performance, accessibility and a clean development workflow.  
 - Currently building apps with **Next.js + TypeScript**.  
 - I like interfaces that feel simple, fast and intentional.  
-- Always improving — code, design sense, and the way I ship projects.
+- Always improving, code, design sense, and the way I ship projects.
 
 ---
 
