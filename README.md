@@ -1,23 +1,25 @@
 <h1 align="center">Hey, I'm Gabriella! 🌿</h1>
 
 <p align="center">
-  <strong><em>Front-End Developer | UI/UX Enthusiast</em></strong>
+  <strong><em>Frontend React Developer · I build clean, efficient and user-focused web interfaces.</em></strong>
 </p>
 
 ---
 
-### 🚀 **Technologies I use:**
+### 🚀 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,ts,react,js,tailwind,html,css,git,nodejs" alt="Tech Stack" width="350"/>
+  <img src="https://skillicons.dev/icons?i=next,ts,react,js,tailwind,html,css,git,nodejs" alt="Tech Stack" width="360"/>
 </p>
 
 ---
 
 ### ✨ **About Me**
-- _I build smooth and intuitive web experiences._
-- _Passionate about clean design and seamless interactions._
-- _Currently exploring TypeScript and building modern apps with Next.js._
-- _Always learning, always improving._
+I work mainly with **React and TypeScript** and modern front-end tools — always aiming for clear structure, good UX and maintainable code.
+
+- Focused on performance, accessibility and a clean development workflow.  
+- Currently building apps with **Next.js + TypeScript**.  
+- I like interfaces that feel simple, fast and intentional.  
+- Always improving — code, design sense, and the way I ship projects.
 
 ---
 
