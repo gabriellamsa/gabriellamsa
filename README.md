@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Gabriella! 🌿</h1>
+<h1 align="center">Hey, I'm Gabi! 🌿</h1>
 
 <p align="center">
   <strong><em>Frontend React Developer · I build clean, efficient and user-focused web interfaces.</em></strong>
