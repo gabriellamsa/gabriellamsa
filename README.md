@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Gabi! 🌿</h1>
 
 <p align="center">
-  <strong><em>Frontend Developer · React / TypeScript · I build clean, fast, and user-friendly interfaces.</em></strong>
+  <strong><em>Application Support · Technical Troubleshooting · Software Testing · Web Applications</em></strong>
 </p>
 
 <p align="center">
-  <em>Remote-friendly · Porto / Bangkok / Curitiba</em>
+  <em>Based in Portugal · Working across support, quality, and web development</em>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/gabriellamsa/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-ea7aa9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:gabriellamsandrade@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:gabriellamsandrade@gmail.com">
     <img src="https://img.shields.io/badge/Email-d95c88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
@@ -23,38 +23,69 @@
 ---
 
 ### ✨ About
-I work mostly with **React + TypeScript**, building interfaces that feel **simple**, **intentional**, and easy to maintain.
 
-- Big on performance, accessibility, and clean UI structure  
-- I enjoy component-driven work and shipping polished details  
-- Currently building with **Next.js + TypeScript**  
-- Always iterating on code quality, UX, and how I deliver  
+I work across **application support, technical troubleshooting, software testing, and web application development**.
 
----
+My support experience includes ticket triage, issue clarification, bug reproduction, technical documentation, manual and cross-browser testing, fix validation, and structured escalation.
 
-### 🧠 Support-driven mindset
-I’ve worked in **technical support**, and it shows up in how I build products.
-
-- I’m used to troubleshooting real issues (and writing fixes people actually understand)  
-- I care about the “boring” parts that make UX feel solid: empty states, helpful errors, edge cases  
-- Clear communication, calm debugging, and practical solutions  
+I also build TypeScript applications using **Next.js, REST APIs, PostgreSQL, and Prisma**, with project experience in authentication, relational data modeling, automated testing, and continuous integration.
 
 ---
 
-### 🚀 Tech Stack
+### 🔧 Support & Quality
+
+<p>
+  <img src="https://img.shields.io/badge/Application_Support-f4a5c3?style=flat-square" alt="Application Support"/>
+  <img src="https://img.shields.io/badge/Troubleshooting-ea7aa9?style=flat-square" alt="Troubleshooting"/>
+  <img src="https://img.shields.io/badge/Bug_Reproduction-d95c88?style=flat-square" alt="Bug Reproduction"/>
+  <img src="https://img.shields.io/badge/Manual_QA-c94a78?style=flat-square" alt="Manual QA"/>
+  <img src="https://img.shields.io/badge/Technical_Documentation-b83c69?style=flat-square" alt="Technical Documentation"/>
+  <img src="https://img.shields.io/badge/Fix_Validation-a62f5a?style=flat-square" alt="Fix Validation"/>
+</p>
+
+- Translate user-reported issues into structured technical information
+- Reproduce defects and document expected and actual behaviour
+- Validate fixes through manual, cross-browser, and end-to-end testing
+- Escalate unresolved issues with clear investigation context
+
+---
+
+### 🚀 Engineering Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=next,ts,react,js,tailwind,html,css,git,nodejs" alt="Tech Stack" width="360"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,postgres,prisma,supabase,git,githubactions" alt="Engineering Stack" width="470"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST_APIs-f4a5c3?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Vitest-ea7aa9?style=flat-square" alt="Vitest"/>
+  <img src="https://img.shields.io/badge/Playwright-d95c88?style=flat-square" alt="Playwright"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-c94a78?style=flat-square" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Database_Migrations-b83c69?style=flat-square" alt="Database Migrations"/>
 </p>
 
 ---
 
 ### 📌 Featured Work
-- **SupportPilot** — AI-assisted customer support platform (portfolio MVP)  
-  Repo: https://github.com/webluma/supportpilot
 
-- **Changelog Studio** — a copilot that turns product updates into clean, structured changelogs  
-  Repo: https://github.com/webluma/changelogstudio
+#### [SupportPilot](https://github.com/webluma/supportpilot)
+
+Customer support portfolio MVP with ticket workflows, structured issue data, AI-assisted responses, QA summaries, error handling, unit tests, and Playwright end-to-end testing.
+
+#### [Personal Finance Manager](https://github.com/gabriellamsa/personal-finance-manager)
+
+Full-stack application with PostgreSQL, Prisma, authenticated user sessions, validated API routes, database migrations, Vitest, Playwright, and continuous integration with GitHub Actions.
+
+#### [Changelog Studio](https://github.com/webluma/changelogstudio)
+
+Release documentation workflow with structured intake, validation, review, versioning, publishing, export, and audit history.
+
+#### [TravelJournal](https://www.traveljournal.me/)
+
+Full-stack travel application using Next.js, TypeScript, Supabase/PostgreSQL, row-level security, Mapbox, automated testing, and CI/CD workflows.
 
 ---
 
-<h3 align="center"><em>"Less, but better." ✨</em></h3>
+<p align="center">
+  <em>Support experience backed by hands-on engineering, testing, and documentation.</em>
+</p>
